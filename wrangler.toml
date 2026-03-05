@@ -6,5 +6,4 @@ workers_dev = true
 [[d1_databases]]
 binding = "DB"
 database_name = "aham_calendar"
-database_id = "REPLACE_WITH_D1_DATABASE_ID"
-
+database_id = "81541a60-053c-4ca7-b1b4-b45c98984b4b"
